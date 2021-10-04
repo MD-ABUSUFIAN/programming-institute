@@ -1,13 +1,14 @@
 .footer{
-    background-color: rgba(128, 128, 128, 0.466);
-    margin-top:550px;
+    background-color: rgba(0, 0, 0, 0.466);
+    margin-top:200px;
   
     
 }
 .footer-container{
+    
     justify-content: center;
     text-align: center;
-    color:tomato;
-    padding: 5px;
+    color:white;
+    padding:50px 5px;
     width: 100%;
 }
