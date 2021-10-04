@@ -1,0 +1,19 @@
+.about-card{
+    height: 500px;
+    width: 550px;
+    padding:40px 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px 3px rgba(0, 0, 0, 0.404);
+    margin-right: 30px;
+   
+}
+.mission-card{
+    height: 500px;
+    width: 550px;
+    padding:40px 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px 3px rgba(0, 0, 0, 0.404);
+}
+.card-head2{
+    padding: 50px;
+}

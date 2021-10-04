@@ -1,0 +1,8 @@
+.card-head{
+    width:400px;
+    height: 800px;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 1px 10px 1px gray;
+}
