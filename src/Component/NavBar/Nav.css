@@ -1,0 +1,38 @@
+.nav-container{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 50px;
+    position: absolute;
+    
+   
+   
+}
+ .link{
+    text-decoration: none;
+    margin: 10px 20px;
+    margin-top: 100px;
+    color:black;
+    border: 2px solid white;
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+.link:hover{
+    background-color: blue;
+    color: white;
+    transition: 0.5s ease-in-out;
+}
+.apply{
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin-left:150px;
+}
+.apply:hover{
+    background-color:white;
+    color: black;
+    transition: 0.5s ease-in-out;
+
+}
