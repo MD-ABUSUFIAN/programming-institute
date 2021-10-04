@@ -15,15 +15,18 @@ import Error from './Component/Error/Error';
 import Carrers from './Component/Careers/Carrers';
 import Footer from './Component/Footer/Footer';
 import Apply from './Component/Apply/Apply';
+import { useEffect, useState } from 'react';
 
 function App() {
+  
+  
   return (
     <div className="App">
       <Router>
       
         <Switch>
-        <Route exact path="/">
-            <Home></Home>
+        <Route exact path="/">     
+          <Home></Home>
           </Route>
           <Route path="/home">
           <Home></Home>
